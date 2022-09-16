@@ -1,4 +1,0 @@
-source: [base, model]
-destination: doc/
-title: "Documentación FacturaScripts"
-baseUrl: "https://facturascripts.com/doc"
